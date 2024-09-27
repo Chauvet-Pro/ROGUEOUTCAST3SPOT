@@ -8,7 +8,7 @@
 [V1.221227 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221227.zip)
 - Fixed RDM issues
 
-&nsbp;
+&nbsp;
 
 ## USB Software Update Instructions
 1.  Power on the product and plug the flash drive into the USB port.
