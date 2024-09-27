@@ -2,10 +2,10 @@
 
 ## Software Versions
 
-[V1.221227 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221014.zip)
+[V1.221227 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221227.zip)
 - Released initial software version
 
-[V1.221227 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221227.zip)
+[V1.221014 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221014.zip)
 - Fixed RDM issues
 
 &nbsp;
