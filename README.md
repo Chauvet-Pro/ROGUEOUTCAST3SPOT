@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241025 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/e40a5ef331462d93e80b0cbdb1c844ee3c47d90b/firmware/V1.241025.zip)
+- Added standalone menu
+
 [V1.221227 - Rogue Outcast 3 Spot](https://github.com/Chauvet-Pro/ROGUEOUTCAST3SPOT/blob/f842874ea1efcd16ed86cace85add0a198622002/firmware/V1.221227.zip)
 - Released initial software version
 
